@@ -20,6 +20,6 @@ Have fun!
 ## --------------------------------------------------------
 
 ![main](Assets/Images/1.PNG)  
-![Game](Assets/Images/2.png)  
-![Game](Assets/Images/3.png)
+![Game](Assets/Images/2.PNG)  
+![Game](Assets/Images/3.PNG)
 
