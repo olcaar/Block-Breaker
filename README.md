@@ -19,4 +19,7 @@ Have fun!
 
 ## --------------------------------------------------------
 
-<iframe frameborder="0" src="https://itch.io/embed-upload/2808732?color=333333" allowfullscreen="" width="980" height="688"><a href="https://arikberen.itch.io/block-breaker">Play Block Breaker on itch.io</a></iframe>
+![main](Assets/Images/1.PNG)  
+![Game](Assets/Images/2.png)  
+![Game](Assets/Images/3.png)
+
