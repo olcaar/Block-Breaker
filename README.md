@@ -9,7 +9,7 @@ All the code is in "Assets/Scripts/".
 
 ## Enjoy the game
 
-Click [here](https://itch.io/embed-upload/2808553?color=333333)  to play.
+Click [here](https://itch.io/embed-upload/2808732?color=333333) to play.
 
 ## Instructions
 
