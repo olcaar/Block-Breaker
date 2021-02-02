@@ -1,5 +1,5 @@
 #  Block Breaker
-Block Breaker is a classic Brick Breaking game in which the player must smash a wall of bricks by deflecting a bouncing ball with a paddle. The paddle may move horizontally and is controlled with the mouse. The player gets 5 lives to start with; a life is lost if the ball hits the bottom of the screen. When all the bricks have been destroyed, the player advances to a new, harder level. There are 5 levels. If all lives are lost, the game is over.  
+Block Breaker is a classic Brick Breaking game in which the player must smash a wall of bricks by deflecting a bouncing ball with a paddle. The paddle may move horizontally and is controlled with the mouse. The player gets 5 lives to start with, a life is lost if the ball hits the bottom of the screen. When all the bricks have been destroyed, the player advances to a new, harder level. There are 5 levels. If all lives are lost, the game is over.  
 The game was made with Unity Game Engine and all scripts written in C#.  
  
 # Files
